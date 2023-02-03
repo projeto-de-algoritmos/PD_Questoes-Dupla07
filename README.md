@@ -16,6 +16,9 @@ Solução de questões sobre programação dinâmica no site leetcode.
 Solução da questão [5.Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) em python.
 ![5](Imagens/5.png)
 
+Solução da questão [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) em python.
+![22](Imagens/22.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: N/A<br>
