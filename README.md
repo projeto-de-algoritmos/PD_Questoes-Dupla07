@@ -1,44 +1,28 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Questões - Dupla 07
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: PD<br>
+**Conteúdo da Disciplina**: 07<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0099353  |  Cibele Freitas Goudinho |
+| 16/0127327  |  João Paulo Coelho de Souza |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Solução de questões sobre programação dinâmica no site leetcode. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Solução da questão [5.Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) em python.
+![5](Imagens/5.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+**Linguagem**: Python<br>
+**Framework**: N/A<br>
+Todos códigos foram rodados no console do site leetcode.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Questões retiradas do site [leetcode](https://leetcode.com/tag/dynamic-programming/)
 
 
 
