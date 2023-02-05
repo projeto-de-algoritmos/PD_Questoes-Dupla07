@@ -22,6 +22,9 @@ Solução da questão [22.Generate Parentheses](https://leetcode.com/problems/ge
 Solução da questão [1395.Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) em python.
 ![1395](Imagens/leet1395.png)
 
+Solução da questão [1641.Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) em python.
+![1641](Imagens/leet1641.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: N/A<br>
@@ -29,7 +32,3 @@ Todos códigos foram rodados no console do site leetcode.
 
 ## Outros 
 Questões retiradas do site [leetcode](https://leetcode.com/tag/dynamic-programming/)
-
-
-
-
