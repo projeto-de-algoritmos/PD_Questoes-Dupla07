@@ -19,6 +19,9 @@ Solução da questão [5.Longest Palindromic Substring](https://leetcode.com/pro
 Solução da questão [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) em python.
 ![22](Imagens/22.png)
 
+Solução da questão [1395.Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) em python.
+![1395](Imagens/leet1395.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: N/A<br>
