@@ -30,5 +30,9 @@ Solução da questão [1641.Count Sorted Vowel Strings](https://leetcode.com/pro
 **Framework**: N/A<br>
 Todos códigos foram rodados no console do site leetcode.
 
+## Apresentação
+
+https://user-images.githubusercontent.com/40813329/217102319-f0385431-ed53-4fdc-b2a6-93a95bd2cea4.mp4
+
 ## Outros 
 Questões retiradas do site [leetcode](https://leetcode.com/tag/dynamic-programming/)
